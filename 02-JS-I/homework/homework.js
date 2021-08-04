@@ -63,7 +63,7 @@ function sonIguales(x, y) {
   if (x === y) {
     return true;
   } else {
-return false;
+    return false;
 }
 }
 
@@ -174,7 +174,7 @@ function esPositivo(numero) {
     return 'Es positivo';
   } else if (numero < 0) {
     return 'Es negativo'
-  } else if (numero == 0) {
+  } else if (numero === 0) {
     return false;
   }
 }
@@ -236,8 +236,7 @@ function esVocal(letra){
   //Escribe tu código aquí
   if (letra.length > 1) {
     return "Dato incorrecto";
-  }
-  if (letra === "a" || letra === "e" || letra === "i" || letra === "o"|| letra === "u") {
+  } else if (letra === "a" || letra === "e" || letra === "i" || letra === "o"|| letra === "u") {
     return "Es vocal";
   } else {
     return "Dato incorrecto";
