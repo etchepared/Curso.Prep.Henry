@@ -1,0 +1,1 @@
+Las variables son utilizadas para guardar información y se le pueden asignar valores.
