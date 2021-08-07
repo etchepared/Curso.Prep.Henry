@@ -1,0 +1,4 @@
+for: se utiliza para bucles, similar al uso del if pero un poco más complejo. Se definen dentro del paréntesis la variable (i), la expresión condicional (i<0) y por último usamos ++ para incrementar la variable que es conseguir que al finalizar la primera prueba de i, continue con i+1.
+&& se utiliza para crear una condición conjunta "si pasa esto y además pasa esto". Si ambos suceden es true, de lo contrario es false.
+|| se utiliza para crear una condición de "ó", si sucede esto o esto es true, de lo contrario es false.
+! se utiliza como negación de lo que sigue. !true será igual a false.
