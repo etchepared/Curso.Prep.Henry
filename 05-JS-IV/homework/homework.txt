@@ -1,0 +1,6 @@
+Todo en java son objetos, un array, una matriz, etc. tienen formato entre {} y hacen referencia a un objeto en particular.
+Propiedades son datos sobre los objetos como ser si es un usuario, serían la edad, el nombre, color favorito, etc.
+Métodos son las funciones, sólo que cuando forman parte de un objeto suelen llamarse así.
+Bucle for...in, en los objetos al no ser una lista como un array no podría iterar de la misma manera
+por eso se accede con un bucle for in que lo que hace es recorrer las propiedades.
+[] . son dos formas de acceder a una propiedad. 

@@ -1,0 +1,1 @@
+Los arrays son listas a las que podemos acceder para ver sus componentes, pueden incluir numeros, strings, otros arrays, bouleanos, funciones, etc.
