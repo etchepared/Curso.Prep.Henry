@@ -1,0 +1,4 @@
+`prototype` hace referencia a una clase y sus datos o metodos internos, por ejemplo los alumnos son personas.
+Si las personas tienen la función "saludar", los alumnos tmb pueden acceder a ella.
+* _Constructors_ (de Clases) cuando utilizamos objetos que comparten datos o características utilizamos clases
+para que la utilización de memoria sea menor.
